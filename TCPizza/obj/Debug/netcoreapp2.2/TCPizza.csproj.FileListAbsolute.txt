@@ -1,0 +1,48 @@
+C:\Users\tlarson\Documents\FlockOfSQLs\TCPizza\TCPizza\TCPizza\bin\Debug\netcoreapp2.2\ASP.NET Core 2.2 with Angular 7.deps.json
+C:\Users\tlarson\Documents\FlockOfSQLs\TCPizza\TCPizza\TCPizza\bin\Debug\netcoreapp2.2\ASP.NET Core 2.2 with Angular 7.runtimeconfig.json
+C:\Users\tlarson\Documents\FlockOfSQLs\TCPizza\TCPizza\TCPizza\bin\Debug\netcoreapp2.2\ASP.NET Core 2.2 with Angular 7.runtimeconfig.dev.json
+C:\Users\tlarson\Documents\FlockOfSQLs\TCPizza\TCPizza\TCPizza\bin\Debug\netcoreapp2.2\ASP.NET Core 2.2 with Angular 7.dll
+C:\Users\tlarson\Documents\FlockOfSQLs\TCPizza\TCPizza\TCPizza\bin\Debug\netcoreapp2.2\ASP.NET Core 2.2 with Angular 7.pdb
+C:\Users\tlarson\Documents\FlockOfSQLs\TCPizza\TCPizza\TCPizza\bin\Debug\netcoreapp2.2\ASP.NET Core 2.2 with Angular 7.Views.dll
+C:\Users\tlarson\Documents\FlockOfSQLs\TCPizza\TCPizza\TCPizza\bin\Debug\netcoreapp2.2\ASP.NET Core 2.2 with Angular 7.Views.pdb
+C:\Users\tlarson\Documents\FlockOfSQLs\TCPizza\TCPizza\TCPizza\obj\Debug\netcoreapp2.2\TCPizza.csprojAssemblyReference.cache
+C:\Users\tlarson\Documents\FlockOfSQLs\TCPizza\TCPizza\TCPizza\obj\Debug\netcoreapp2.2\TCPizza.csproj.CoreCompileInputs.cache
+C:\Users\tlarson\Documents\FlockOfSQLs\TCPizza\TCPizza\TCPizza\obj\Debug\netcoreapp2.2\TCPizza.RazorAssemblyInfo.cache
+C:\Users\tlarson\Documents\FlockOfSQLs\TCPizza\TCPizza\TCPizza\obj\Debug\netcoreapp2.2\TCPizza.RazorAssemblyInfo.cs
+C:\Users\tlarson\Documents\FlockOfSQLs\TCPizza\TCPizza\TCPizza\obj\Debug\netcoreapp2.2\TCPizza.AssemblyInfoInputs.cache
+C:\Users\tlarson\Documents\FlockOfSQLs\TCPizza\TCPizza\TCPizza\obj\Debug\netcoreapp2.2\TCPizza.AssemblyInfo.cs
+C:\Users\tlarson\Documents\FlockOfSQLs\TCPizza\TCPizza\TCPizza\obj\Debug\netcoreapp2.2\ASP.NET Core 2.2 with Angular 7.TagHelpers.input.cache
+C:\Users\tlarson\Documents\FlockOfSQLs\TCPizza\TCPizza\TCPizza\obj\Debug\netcoreapp2.2\ASP.NET Core 2.2 with Angular 7.TagHelpers.output.cache
+C:\Users\tlarson\Documents\FlockOfSQLs\TCPizza\TCPizza\TCPizza\obj\Debug\netcoreapp2.2\TCPizza.RazorCoreGenerate.cache
+C:\Users\tlarson\Documents\FlockOfSQLs\TCPizza\TCPizza\TCPizza\obj\Debug\netcoreapp2.2\Razor\Pages\Error.g.cshtml.cs
+C:\Users\tlarson\Documents\FlockOfSQLs\TCPizza\TCPizza\TCPizza\obj\Debug\netcoreapp2.2\Razor\Pages\_ViewImports.g.cshtml.cs
+C:\Users\tlarson\Documents\FlockOfSQLs\TCPizza\TCPizza\TCPizza\obj\Debug\netcoreapp2.2\TCPizza.RazorTargetAssemblyInfo.cache
+C:\Users\tlarson\Documents\FlockOfSQLs\TCPizza\TCPizza\TCPizza\obj\Debug\netcoreapp2.2\TCPizza.RazorTargetAssemblyInfo.cs
+C:\Users\tlarson\Documents\FlockOfSQLs\TCPizza\TCPizza\TCPizza\obj\Debug\netcoreapp2.2\ASP.NET Core 2.2 with Angular 7.Views.pdb
+C:\Users\tlarson\Documents\FlockOfSQLs\TCPizza\TCPizza\TCPizza\obj\Debug\netcoreapp2.2\ASP.NET Core 2.2 with Angular 7.dll
+C:\Users\tlarson\Documents\FlockOfSQLs\TCPizza\TCPizza\TCPizza\obj\Debug\netcoreapp2.2\ASP.NET Core 2.2 with Angular 7.pdb
+C:\Users\tlarson\Documents\FlockOfSQLs\TCPizza\TCPizza\TCPizza\obj\Debug\netcoreapp2.2\TCPizza.csproj.CopyComplete
+C:\Users\tlarson\Documents\FlockOfSQLs\TCPizza\TCPizza\bin\Debug\netcoreapp2.2\ASP.NET Core 2.2 with Angular 7.deps.json
+C:\Users\tlarson\Documents\FlockOfSQLs\TCPizza\TCPizza\bin\Debug\netcoreapp2.2\ASP.NET Core 2.2 with Angular 7.runtimeconfig.json
+C:\Users\tlarson\Documents\FlockOfSQLs\TCPizza\TCPizza\bin\Debug\netcoreapp2.2\ASP.NET Core 2.2 with Angular 7.runtimeconfig.dev.json
+C:\Users\tlarson\Documents\FlockOfSQLs\TCPizza\TCPizza\bin\Debug\netcoreapp2.2\ASP.NET Core 2.2 with Angular 7.dll
+C:\Users\tlarson\Documents\FlockOfSQLs\TCPizza\TCPizza\bin\Debug\netcoreapp2.2\ASP.NET Core 2.2 with Angular 7.pdb
+C:\Users\tlarson\Documents\FlockOfSQLs\TCPizza\TCPizza\bin\Debug\netcoreapp2.2\ASP.NET Core 2.2 with Angular 7.Views.dll
+C:\Users\tlarson\Documents\FlockOfSQLs\TCPizza\TCPizza\bin\Debug\netcoreapp2.2\ASP.NET Core 2.2 with Angular 7.Views.pdb
+C:\Users\tlarson\Documents\FlockOfSQLs\TCPizza\TCPizza\obj\Debug\netcoreapp2.2\TCPizza.csprojAssemblyReference.cache
+C:\Users\tlarson\Documents\FlockOfSQLs\TCPizza\TCPizza\obj\Debug\netcoreapp2.2\TCPizza.csproj.CoreCompileInputs.cache
+C:\Users\tlarson\Documents\FlockOfSQLs\TCPizza\TCPizza\obj\Debug\netcoreapp2.2\TCPizza.RazorAssemblyInfo.cache
+C:\Users\tlarson\Documents\FlockOfSQLs\TCPizza\TCPizza\obj\Debug\netcoreapp2.2\TCPizza.RazorAssemblyInfo.cs
+C:\Users\tlarson\Documents\FlockOfSQLs\TCPizza\TCPizza\obj\Debug\netcoreapp2.2\TCPizza.AssemblyInfoInputs.cache
+C:\Users\tlarson\Documents\FlockOfSQLs\TCPizza\TCPizza\obj\Debug\netcoreapp2.2\TCPizza.AssemblyInfo.cs
+C:\Users\tlarson\Documents\FlockOfSQLs\TCPizza\TCPizza\obj\Debug\netcoreapp2.2\ASP.NET Core 2.2 with Angular 7.TagHelpers.input.cache
+C:\Users\tlarson\Documents\FlockOfSQLs\TCPizza\TCPizza\obj\Debug\netcoreapp2.2\ASP.NET Core 2.2 with Angular 7.TagHelpers.output.cache
+C:\Users\tlarson\Documents\FlockOfSQLs\TCPizza\TCPizza\obj\Debug\netcoreapp2.2\TCPizza.RazorCoreGenerate.cache
+C:\Users\tlarson\Documents\FlockOfSQLs\TCPizza\TCPizza\obj\Debug\netcoreapp2.2\Razor\Pages\Error.g.cshtml.cs
+C:\Users\tlarson\Documents\FlockOfSQLs\TCPizza\TCPizza\obj\Debug\netcoreapp2.2\Razor\Pages\_ViewImports.g.cshtml.cs
+C:\Users\tlarson\Documents\FlockOfSQLs\TCPizza\TCPizza\obj\Debug\netcoreapp2.2\TCPizza.RazorTargetAssemblyInfo.cache
+C:\Users\tlarson\Documents\FlockOfSQLs\TCPizza\TCPizza\obj\Debug\netcoreapp2.2\TCPizza.RazorTargetAssemblyInfo.cs
+C:\Users\tlarson\Documents\FlockOfSQLs\TCPizza\TCPizza\obj\Debug\netcoreapp2.2\ASP.NET Core 2.2 with Angular 7.Views.pdb
+C:\Users\tlarson\Documents\FlockOfSQLs\TCPizza\TCPizza\obj\Debug\netcoreapp2.2\ASP.NET Core 2.2 with Angular 7.dll
+C:\Users\tlarson\Documents\FlockOfSQLs\TCPizza\TCPizza\obj\Debug\netcoreapp2.2\ASP.NET Core 2.2 with Angular 7.pdb
+C:\Users\tlarson\Documents\FlockOfSQLs\TCPizza\TCPizza\obj\Debug\netcoreapp2.2\TCPizza.csproj.CopyComplete
